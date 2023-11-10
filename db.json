@@ -1,6 +1,7 @@
 {
   "storeInfo": {
     "storeName": "GranGården",
+    "mantra": "Köp din gran hos oss",
     "address": {
       "road": "Granvägen 123",
       "city": "Granstaden",
@@ -14,56 +15,64 @@
       "name": "Nordmannsgran",
       "price": 499,
       "description": "En vacker Nordmannsgran med tjocka och mörkgröna barr. Perfekt för helgen!",
-      "picture": "nordmannsgran.png"
+      "picture": "nordmannsgran.png",
+      "stock": 5
     },
     {
       "id": "2",
       "name": "Blågran",
       "price": 399,
       "description": "En traditionell blågran med doftande barr. En klassiker för helgen!",
-      "picture": "blagran.png"
+      "picture": "blagran.png",
+      "stock": 5
     },
     {
       "id": "3",
       "name": "Fjällgran",
       "price": 599,
       "description": "En robust fjällgran som tål tufft väder. Perfekt för en nordisk helg!",
-      "picture": "fjallgran.png"
+      "picture": "fjallgran.png",
+      "stock": 5
     },
     {
       "id": "4",
       "name": "Gröngran",
       "price": 449,
       "description": "En festlig gröngran med långvariga barr. Skapa helgstämning i ditt hem!",
-      "picture": "grongran.png"
+      "picture": "grongran.png",
+      "stock": 5
     },
     {
       "id": "5",
       "name": "Silvergran",
       "price": 479,
       "description": "En Silvergran känd för sin mjuka doft och sköna barr. Perfekt för en mysig helgstämning!",
-      "picture": "silvergran.png"
+      "picture": "silvergran.png",
+      "stock": 5
     },
     {
       "id": "6",
       "name": "Vitgran",
       "price": 519,
       "description": "Lägg till en touch av sofistikation till din helgdekoration med en Vitgran!",
-      "picture": "vitgran.png"
+      "picture": "vitgran.png",
+      "stock": 5
     },
     {
       "id": "7",
       "name": "Kvistgran",
       "price": 429,
       "description": "En klassisk Kvistgran med rustik charm. Skapa underbara helgminnen med denna gran!",
-      "picture": "kvistgran.png"
+      "picture": "kvistgran.png",
+      "stock": 5
     },
     {
       "id": "8",
       "name": "Cedergran",
       "price": 549,
       "description": "En Cedergran med en ljuvlig doft och unik lövverk. Gör din helg extra speciell med denna gran!",
-      "picture": "cedergran.png"
+      "picture": "cedergran.png",
+      "stock": 5
     }
   ]
 }
