@@ -1,4 +1,6 @@
-import db from "../db.json" assert { type: "json" };
+import { createRequire } from "module";
+const require = createRequire(import.meta.url);
+const db = require("../db.json");
 
 const getFromDb = (path, checkId = null) => {
   const response = {
@@ -8,7 +10,8 @@ const getFromDb = (path, checkId = null) => {
     error: null,
   };
   if (checkId) {
-    const pineDetails = db[path].find((pine) => pine.id === +checkId);
+    const pineDetails = db[path].find((pine) => pine.id === checkId);
+
     if (pineDetails) {
       response.status = "Success";
       response.statusCode = 200;

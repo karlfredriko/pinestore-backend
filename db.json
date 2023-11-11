@@ -14,7 +14,7 @@
       "id": "1",
       "name": "Nordmannsgran",
       "price": 499,
-      "description": "En vacker Nordmannsgran med tjocka och mörkgröna barr. Perfekt för helgen!",
+      "description": "En vacker Nordmannsgran med tjocka och mörkgröna barr. Perfekt för julen!",
       "picture": "nordmannsgran.png",
       "stock": 5
     },
@@ -22,7 +22,7 @@
       "id": "2",
       "name": "Blågran",
       "price": 399,
-      "description": "En traditionell blågran med doftande barr. En klassiker för helgen!",
+      "description": "En traditionell blågran med doftande barr. En klassiker för julen!",
       "picture": "blagran.png",
       "stock": 5
     },
@@ -30,7 +30,7 @@
       "id": "3",
       "name": "Fjällgran",
       "price": 599,
-      "description": "En robust fjällgran som tål tufft väder. Perfekt för en nordisk helg!",
+      "description": "En robust fjällgran som tål tufft väder. Perfekt för en nordisk jul!",
       "picture": "fjallgran.png",
       "stock": 5
     },
@@ -38,7 +38,7 @@
       "id": "4",
       "name": "Gröngran",
       "price": 449,
-      "description": "En festlig gröngran med långvariga barr. Skapa helgstämning i ditt hem!",
+      "description": "En festlig gröngran med långvariga barr. Skapa julstämning i ditt hem!",
       "picture": "grongran.png",
       "stock": 5
     },
@@ -46,7 +46,7 @@
       "id": "5",
       "name": "Silvergran",
       "price": 479,
-      "description": "En Silvergran känd för sin mjuka doft och sköna barr. Perfekt för en mysig helgstämning!",
+      "description": "En Silvergran känd för sin mjuka doft och sköna barr. Perfekt för en mysig julstämning!",
       "picture": "silvergran.png",
       "stock": 5
     },
@@ -54,7 +54,7 @@
       "id": "6",
       "name": "Vitgran",
       "price": 519,
-      "description": "Lägg till en touch av sofistikation till din helgdekoration med en Vitgran!",
+      "description": "Lägg till en touch av sofistikation till din juldekoration med en Vitgran!",
       "picture": "vitgran.png",
       "stock": 5
     },
@@ -62,7 +62,7 @@
       "id": "7",
       "name": "Kvistgran",
       "price": 429,
-      "description": "En klassisk Kvistgran med rustik charm. Skapa underbara helgminnen med denna gran!",
+      "description": "En klassisk Kvistgran med rustik charm. Skapa underbara julminnen med denna gran!",
       "picture": "kvistgran.png",
       "stock": 5
     },
@@ -70,7 +70,7 @@
       "id": "8",
       "name": "Cedergran",
       "price": 549,
-      "description": "En Cedergran med en ljuvlig doft och unik lövverk. Gör din helg extra speciell med denna gran!",
+      "description": "En Cedergran med en ljuvlig doft och unik lövverk. Gör din jul extra speciell med denna gran!",
       "picture": "cedergran.png",
       "stock": 5
     }
